@@ -6,7 +6,7 @@
  - Proxy / Proxyless mode.<br/>
  - Proxy support (https / socks4 / socks5).<br/>
  - Configurable in the configs.json.<br/>
- - Detailed hits.<br/>
+ - Detailed hits (Proxy, Country, Protocol, ConnectTime, DownloadSpeed, UpTime).<br/>
  - Customizable thread amount.<br/>
 
 # Installation
