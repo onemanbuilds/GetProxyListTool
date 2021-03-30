@@ -113,6 +113,7 @@ class Main:
                 self.hits += 1
                 scraped_proxy = f"{response.json()['ip']}:{response.json()['port']}"
                 printText(self.lock,colors['white'],colors['green'],'HIT',scraped_proxy)
+                
                 with open('[Data]/[Results]/hits.txt','a',encoding='utf8') as f:
                     f.write(f'{scraped_proxy}\n')
 
