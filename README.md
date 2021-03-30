@@ -19,6 +19,7 @@
  - use_proxy (0 - Proxyless | 1 - Proxy).<br/>
  - proxy_type (1 - HTTPS | 2 - SOCKS4 | 3 - SOCKS5).<br/>
  - threads (Higher means faster performance, but more chance for inaccurate results).<br/>
+ - detailed_hits (Saves the details about the proxy to a different file).<br/>
 
 # Suggestion
 ![](https://i.ibb.co/ZzHxLVf/suggestion2.png)
